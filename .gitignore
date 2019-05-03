@@ -1,3 +1,4 @@
+/build
 /helm/api/charts
 
 ###> symfony/framework-bundle ###

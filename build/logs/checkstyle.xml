@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="3.4.2">
-<file name="/app/src/Kernel.php">
- <error line="21" column="1" severity="error" message="Missing doc comment for class Kernel" source="Symfony.Commenting.ClassComment.Missing"/>
-</file>
-</checkstyle>
-
